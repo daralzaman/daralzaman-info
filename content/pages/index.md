@@ -4,7 +4,7 @@ slug: /
 sections:
   - title:
       text: مرحباً تفضل بالاختيار
-      color: text-light
+      color: text-neutral
       styles:
         self:
           textAlign: right
