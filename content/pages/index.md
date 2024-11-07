@@ -152,7 +152,7 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: تواصل معواتساب قسم الطباعة
+        title: واتساب قسم الطباعة
         tagline: ''
         subtitle: This is the item subtitle
         text: |
