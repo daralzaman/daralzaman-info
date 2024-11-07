@@ -81,7 +81,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: طريقالمطار
+            label: المطار
             altText: ''
             url: /
             showIcon: false
