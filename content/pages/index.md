@@ -6,7 +6,7 @@ sections:
     items:
       - title: Feature Item One
         tagline: الموقع الالكتروني لمكتبة دار الزمان
-        subtitle: This is the item subtitle
+        subtitle: مجموعة متكاملة من الكتب الدراسية والاسلامية مع امكانية التوصيل للمنزل
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
