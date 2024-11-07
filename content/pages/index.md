@@ -143,7 +143,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: 'الاتصال هاتفياً رقم : 0148366666'
+            label: الاتصال هاتفياً عبر 0148366666
             altText: ''
             url: 'tel:+966148366666'
             showIcon: false
