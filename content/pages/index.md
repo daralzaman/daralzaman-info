@@ -175,6 +175,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            textAlign: center
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
