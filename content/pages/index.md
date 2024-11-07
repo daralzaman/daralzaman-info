@@ -74,7 +74,7 @@ sections:
           - type: Button
             label: المركزية
             altText: ''
-            url: /
+            url: 'https://maps.app.goo.gl/1oWQiF2P9WhzoA8r6'
             showIcon: false
             icon: arrowRight
             iconPosition: right
