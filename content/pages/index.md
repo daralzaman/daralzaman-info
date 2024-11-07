@@ -141,6 +141,15 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'tel:+966148366666'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
