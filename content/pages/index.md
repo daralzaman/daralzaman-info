@@ -131,6 +131,16 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://api.whatsapp.com/send/?phone=966503301223&text&type=phone_number&app_absent=0
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
