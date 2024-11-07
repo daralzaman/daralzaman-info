@@ -97,7 +97,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-      - title: تواصل معنا عبر الواتساب
+      - title: تواصل معنا
         tagline: ''
         subtitle: ''
         text: ''
