@@ -97,7 +97,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-      - title: Feature Item Three
+      - title: تواصل معنا عبر الواتساب
         tagline: ''
         subtitle: This is the item subtitle
         text: ''
