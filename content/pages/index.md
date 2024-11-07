@@ -9,6 +9,7 @@ sections:
         self:
           textAlign: right
           fontWeight: 400
+          textDecoration: underline
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
