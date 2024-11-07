@@ -4,7 +4,7 @@ slug: /
 sections:
   - subtitle: تفضل بإختيار المطلوب
     items:
-      - title: Feature Item One
+      - title: الموقع الالكتروني لمكتبة دار الزمان
         tagline: ''
         subtitle: مجموعة متكاملة من الكتب الدراسية والاسلامية مع امكانية التوصيل للمنزل
         text: |
