@@ -61,7 +61,7 @@ sections:
             textAlign: center
         type: FeaturedItem
       - title: Feature Item Three
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
