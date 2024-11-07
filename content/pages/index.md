@@ -120,6 +120,17 @@ sections:
             flexDirection: col
             textAlign: center
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://api.whatsapp.com/send/?phone=966500149333&text&type=phone_number&app_absent=0
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
