@@ -2,16 +2,7 @@
 title: Home
 slug: /
 sections:
-  - title:
-      text: مرحباً تفضل بالاختيار
-      color: text-neutral
-      styles:
-        self:
-          textAlign: right
-          fontWeight: 400
-          textDecoration: underline
-      type: TitleBlock
-    subtitle: Featured items section subtitle
+  - subtitle: Featured items section subtitle
     items:
       - title: Feature Item One
         tagline: This is the tagline
