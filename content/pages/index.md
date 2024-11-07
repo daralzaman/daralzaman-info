@@ -122,7 +122,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: النشر
+            label: واتساب قسم النشر والتوزيع 0503301223
             altText: ''
             url: >-
               https://api.whatsapp.com/send/?phone=966503301223&text&type=phone_number&app_absent=0
