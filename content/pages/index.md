@@ -34,7 +34,7 @@ sections:
             url: 'https://www.daralzaman.sa/sa/'
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
       - title: Feature Item Two
