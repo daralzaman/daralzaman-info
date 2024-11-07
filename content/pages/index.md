@@ -152,7 +152,7 @@ sections:
             style: primary
             elementId: ''
       - type: FeaturedItem
-        title: Feature Item One
+        title: تواصل مع
         tagline: ''
         subtitle: This is the item subtitle
         text: |
