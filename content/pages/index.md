@@ -82,7 +82,7 @@ sections:
           - type: Button
             label: المطار
             altText: ''
-            url: /
+            url: 'https://maps.app.goo.gl/8xD3adEB4wjAk1Pe6'
             showIcon: false
             icon: arrowRight
             iconPosition: right
