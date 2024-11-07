@@ -7,7 +7,7 @@ sections:
       color: text-primary
       styles:
         self:
-          textAlign: center
+          textAlign: right
           fontWeight: 400
       type: TitleBlock
     subtitle: Featured items section subtitle
