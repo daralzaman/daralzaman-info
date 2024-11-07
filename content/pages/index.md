@@ -62,7 +62,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: طريق السلام
+            label: فرع السلام
             altText: ''
             url: 'https://maps.app.goo.gl/g7rcFm78ieJad3cw9'
             showIcon: false
