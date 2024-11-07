@@ -29,7 +29,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: ''
             altText: ''
             url: 'https://www.daralzaman.sa/sa/'
             showIcon: false
