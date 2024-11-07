@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: List of features here
+      text: مرحباً تفضل بالاختيار
       color: text-primary
       styles:
         self:
