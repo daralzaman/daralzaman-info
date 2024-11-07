@@ -89,7 +89,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: متحف الصافية
+            label: فرع الصافية
             altText: ''
             url: 'https://maps.app.goo.gl/zxVRY9EzYe93M1ty8'
             showIcon: false
