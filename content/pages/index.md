@@ -64,8 +64,7 @@ sections:
           - type: Button
             label: طريق السلام
             altText: ''
-            url: >-
-              https://api.whatsapp.com/send/?phone=966503301223&amp;text&amp;type=phone_number&amp;app_absent=0
+            url: 'https://maps.app.goo.gl/g7rcFm78ieJad3cw9'
             showIcon: false
             icon: arrowRight
             iconPosition: right
