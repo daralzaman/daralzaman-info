@@ -122,7 +122,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: خدمة العملاء
+            label: العملاء
             altText: ''
             url: >-
               https://api.whatsapp.com/send/?phone=966500149333&text&type=phone_number&app_absent=0
