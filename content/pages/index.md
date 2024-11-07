@@ -29,7 +29,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: ''
+            label: الانتقال الى الموقع الالكتروني
             altText: ''
             url: 'https://www.daralzaman.sa/sa/'
             showIcon: false
