@@ -5,7 +5,7 @@ sections:
   - subtitle: تفضل بإختيار المطلوب
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: الموقع الالكتروني لمكتبة دار الزمان
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
