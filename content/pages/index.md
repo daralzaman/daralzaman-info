@@ -166,7 +166,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: فرع المطار
             altText: ''
             url: >-
               https://api.whatsapp.com/send/?phone=966591372856&text&type=phone_number&app_absent=0
