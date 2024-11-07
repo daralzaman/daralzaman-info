@@ -2,7 +2,14 @@
     "logo": {
         "url": "/images/OIP.jpeg",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "padding": [
+                    "pl-9"
+                ]
+            }
+        }
     },
     "text": "مكتبة دار الزمان للنشر والتوزيع\n",
     "socialLinks": [],
