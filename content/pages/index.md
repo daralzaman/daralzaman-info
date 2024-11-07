@@ -176,7 +176,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: Get started
+            label: فرع السلام
             altText: ''
             url: >-
               https://api.whatsapp.com/send/?phone=966583914466&text&type=phone_number&app_absent=0
