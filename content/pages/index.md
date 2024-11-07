@@ -8,6 +8,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 400
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
