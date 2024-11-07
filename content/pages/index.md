@@ -91,7 +91,7 @@ sections:
           - type: Button
             label: متحف الصافية
             altText: ''
-            url: /
+            url: 'https://maps.app.goo.gl/zxVRY9EzYe93M1ty8'
             showIcon: false
             icon: arrowRight
             iconPosition: right
