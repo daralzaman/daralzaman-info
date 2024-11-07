@@ -97,7 +97,7 @@ sections:
           - pr-8
         justifyContent: flex-end
       subtitle:
-        textAlign: right
+        textAlign: center
         fontWeight: 700
     type: FeaturedItemsSection
 type: PageLayout
