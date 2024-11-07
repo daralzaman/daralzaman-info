@@ -33,7 +33,7 @@ sections:
             altText: انطلق
             url: 'https://www.daralzaman.sa/sa/'
             showIcon: true
-            icon: arrowRight
+            icon: arrowLeft
             iconPosition: left
             style: primary
             elementId: ''
