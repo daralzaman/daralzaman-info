@@ -99,6 +99,7 @@ sections:
         justifyContent: flex-end
       subtitle:
         textAlign: right
+        fontWeight: 400
     type: FeaturedItemsSection
 type: PageLayout
 ---
