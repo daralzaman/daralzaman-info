@@ -107,10 +107,5 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
-  type: Seo
 type: PageLayout
 ---
