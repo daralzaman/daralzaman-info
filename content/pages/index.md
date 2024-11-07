@@ -80,7 +80,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: المطار
+            label: فرع المطار
             altText: ''
             url: 'https://maps.app.goo.gl/8xD3adEB4wjAk1Pe6'
             showIcon: false
