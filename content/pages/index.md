@@ -90,7 +90,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: Get started
+            label: متحف الصافية
             altText: ''
             url: /
             showIcon: false
