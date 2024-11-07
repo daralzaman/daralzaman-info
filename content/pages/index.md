@@ -38,15 +38,6 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-          - type: Button
-            label: Get started
-            altText: ''
-            url: 'https://www.daralzaman.sa/sa/'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
       - title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
