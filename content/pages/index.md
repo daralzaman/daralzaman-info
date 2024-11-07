@@ -72,7 +72,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: طريق السلام
+            label: المركزية
             altText: ''
             url: /
             showIcon: false
