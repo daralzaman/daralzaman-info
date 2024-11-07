@@ -30,7 +30,7 @@ sections:
         actions:
           - type: Button
             label: الانتقال الى الموقع الالكتروني
-            altText: ''
+            altText: انطلق
             url: 'https://www.daralzaman.sa/sa/'
             showIcon: false
             icon: arrowRight
