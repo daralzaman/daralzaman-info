@@ -5,7 +5,7 @@ sections:
   - subtitle: تفضل بإختيار المطلوب
     items:
       - title: Feature Item One
-        tagline: الموقع الالكتروني لمكتبة دار الزمان
+        tagline: ''
         subtitle: مجموعة متكاملة من الكتب الدراسية والاسلامية مع امكانية التوصيل للمنزل
         text: |
           Follow the tutorial to build your first Netlify Create site.
