@@ -71,7 +71,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: المركزية
+            label: فرع المركزية
             altText: ''
             url: 'https://maps.app.goo.gl/1oWQiF2P9WhzoA8r6'
             showIcon: false
