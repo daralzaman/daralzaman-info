@@ -39,7 +39,7 @@ sections:
             elementId: ''
       - title: المواقع الجغرافية للمكتبة
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           url: /images/abstract-feature2.svg
