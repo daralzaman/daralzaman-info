@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - subtitle: تفضل بإختيار المطلوب
+  - subtitle: ''
     items:
       - title: الموقع الالكتروني
         tagline: ''
