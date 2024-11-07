@@ -16,5 +16,12 @@
     "legalLinks": [],
     "copyrightText": "<div style=\"text-align: center\">© Copyright 2025 |  All Rights Reserved by aamir alshawa 0544641741</div>\n\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pl-7"
+            ]
+        }
+    }
 }
