@@ -132,7 +132,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: قسم النشر
+            label: النشر
             altText: ''
             url: >-
               https://api.whatsapp.com/send/?phone=966503301223&text&type=phone_number&app_absent=0
