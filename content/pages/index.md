@@ -37,7 +37,7 @@ sections:
             iconPosition: left
             style: primary
             elementId: ''
-      - title: Feature Item Two
+      - title: المواقع الجغرافية للمكتبة
         tagline: ''
         subtitle: This is the item subtitle
         text: ''
