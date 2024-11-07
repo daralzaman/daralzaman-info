@@ -142,7 +142,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: Get started
+            label: الهاتف
             altText: ''
             url: 'tel:+966148366666'
             showIcon: false
