@@ -122,20 +122,20 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: واتساب خدمة العملاء 0500149333
+            label: النشر
             altText: ''
             url: >-
-              https://api.whatsapp.com/send/?phone=966500149333&text&type=phone_number&app_absent=0
+              https://api.whatsapp.com/send/?phone=966503301223&text&type=phone_number&app_absent=0
             showIcon: false
             icon: arrowRight
             iconPosition: right
             style: primary
             elementId: ''
           - type: Button
-            label: النشر
+            label: واتساب خدمة العملاء 0500149333
             altText: ''
             url: >-
-              https://api.whatsapp.com/send/?phone=966503301223&text&type=phone_number&app_absent=0
+              https://api.whatsapp.com/send/?phone=966500149333&text&type=phone_number&app_absent=0
             showIcon: false
             icon: arrowRight
             iconPosition: right
