@@ -32,7 +32,7 @@ sections:
             label: الانتقال الى الموقع الالكتروني
             altText: انطلق
             url: 'https://www.daralzaman.sa/sa/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
