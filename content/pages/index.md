@@ -37,7 +37,7 @@ sections:
             iconPosition: left
             style: primary
             elementId: ''
-      - title: المواقع الجغرافية للمكتبة
+      - title: المواقع الجغرافية للمكتبة بالمدينة المنورة
         tagline: ''
         subtitle: ''
         text: ''
