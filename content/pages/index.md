@@ -133,7 +133,7 @@ sections:
             style: primary
             elementId: ''
           - type: Button
-            label: واتساب خدمة العملاء 0500149333
+            label: واتساب خدمة العملاء
             altText: ''
             url: >-
               https://api.whatsapp.com/send/?phone=966500149333&text&type=phone_number&app_absent=0
