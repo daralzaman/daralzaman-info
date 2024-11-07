@@ -38,7 +38,7 @@ sections:
             style: primary
             elementId: ''
       - title: Feature Item Two
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
