@@ -80,6 +80,15 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Feature Item Three
         tagline: ''
         subtitle: This is the item subtitle
