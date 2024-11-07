@@ -187,7 +187,7 @@ sections:
           - pl-7
           - pb-16
           - pr-8
-        justifyContent: flex-end
+        justifyContent: center
       subtitle:
         textAlign: center
         fontWeight: 700
