@@ -60,6 +60,17 @@ sections:
             flexDirection: col
             textAlign: center
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://api.whatsapp.com/send/?phone=966503301223&amp;text&amp;type=phone_number&amp;app_absent=0
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Feature Item Three
         tagline: ''
         subtitle: This is the item subtitle
