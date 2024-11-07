@@ -62,7 +62,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: موقع فرع المركزية
+            label: المركزية
             altText: ''
             url: >-
               https://api.whatsapp.com/send/?phone=966503301223&amp;text&amp;type=phone_number&amp;app_absent=0
