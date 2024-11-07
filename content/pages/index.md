@@ -2,7 +2,7 @@
 title: Home
 slug: /
 sections:
-  - subtitle: Featured items section subtitle
+  - subtitle: تفضل بإختيار المطلوب
     items:
       - title: Feature Item One
         tagline: This is the tagline
