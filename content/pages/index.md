@@ -97,7 +97,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-      - title: تواصل معنا
+      - title: تواصلوا معنا لخدمتكم
         tagline: ''
         subtitle: ''
         text: ''
