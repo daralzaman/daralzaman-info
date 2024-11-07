@@ -191,14 +191,5 @@ sections:
         textAlign: center
         fontWeight: 700
     type: FeaturedItemsSection
-  - type: CarouselSection
-    items: []
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 type: PageLayout
 ---
