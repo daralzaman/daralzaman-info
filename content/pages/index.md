@@ -164,7 +164,17 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              https://api.whatsapp.com/send/?phone=966591372856&text&type=phone_number&app_absent=0
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
